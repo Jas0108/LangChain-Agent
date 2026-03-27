@@ -1,6 +1,6 @@
 # LangChain ReAct Agent
 
-A Python-based AI agent built with **LangChain** and **Ollama** that uses the **ReAct (Reasoning + Acting)** framework to intelligently route user queries to the right tool — or answer directly when no tool is needed.
+A Python-based AI agent built with **LangChain** and **Ollama** that uses the **ReAct (Reasoning + Acting)** framework to intelligently route user queries to the right tool or answer directly when no tool is needed.
 
 ## Tools
 
